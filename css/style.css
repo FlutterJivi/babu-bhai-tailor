@@ -26,7 +26,7 @@ nav{
 }
 
 span{
-    color: #0b3eb1;
+    color: #ff0000;
 }
 
 nav ul li{
@@ -43,13 +43,13 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: #0b3eb1;
+    color: #ff0000;
     transition: .3s;
 }
 
 button{
     border: none;
-    background-color: #15ae48;
+    background-color: #ff0000;
     padding: 12px 30px;
     border-radius: 30px;
     color: white;
@@ -83,7 +83,7 @@ button:hover{
 }
 
 .btn-primary{
-    background-color: #0b3eb1;
+    background-color: #ff0000;
     margin-top: 20px;
 }
 
@@ -103,7 +103,7 @@ button:hover{
 
 /* Hide mobile call button on desktop */
 .btn-primary{
-    background-color: #0b3eb1;
+    background-color: #ff0000;
     margin-top: 20px;
     display: none;
     margin-left: auto;
@@ -132,7 +132,7 @@ button:hover{
 
 .about-section h1{
     font-size: 40px;
-    color: #0b3eb1;
+    color: #ff0000;
     margin-bottom: 30px;
 }
 
@@ -151,7 +151,7 @@ button:hover{
 
 .contact-section h1{
     font-size: 40px;
-    color: #0b3eb1;
+    color: #ff0000;
     margin-bottom: 30px;
 }
 
@@ -182,7 +182,7 @@ button:hover{
 
 .service-section h1{
     font-size: 40px;
-    color: #0b3eb1;
+    color: #ff0000;
     margin-bottom: 30px;
     text-align: center;
 }
@@ -209,7 +209,7 @@ button:hover{
 
 .service-card h3{
     font-size: 24px;
-    color: #0b3eb1;
+    color: #ff0000;
     margin-bottom: 15px;
 }
 
@@ -293,7 +293,7 @@ button:hover{
     }
 
     .content p{
-        font-size: 16px;
+        font-size: 20px;
     }
 
     /* About Page Mobile */
@@ -363,7 +363,7 @@ button:hover{
     }
 
     .content p{
-        font-size: 14px;
+        font-size: 20px;
     }
 
     button{
