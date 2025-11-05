@@ -12,7 +12,7 @@ if(hamburger && navMenu){
 const callBtn = document.getElementById('callBtn');
 if(callBtn){
     callBtn.addEventListener('click', () => {
-        window.location.href = 'tel:+919876543210';
+        window.location.href = 'tel:+919428026787';
     });
 }
 
@@ -20,6 +20,6 @@ if(callBtn){
 const callBtnMobile = document.getElementById('callBtnMobile');
 if(callBtnMobile){
     callBtnMobile.addEventListener('click', () => {
-        window.location.href = 'tel:+919876543210';
+        window.location.href = 'tel:+919428026787';
     });
 }
