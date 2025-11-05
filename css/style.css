@@ -221,7 +221,7 @@ button:hover{
 /* Mobile Media Queries */
 @media screen and (max-width: 768px){
     .hero{
-        background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/img/pexels-jonaskakaroto-783590.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/img/pexels-tima-miroshnichenko-6766364.jpg);
         background-size: cover;
         background-position: center;
         background-attachment: scroll;
